@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+  }
+  footer {
+    margin-top: 3rem;
+    font-size: 0.9rem;
+  }
+  footer a {
+    margin: 0 0.5rem;
+    text-decoration: none;
+  }
+  
